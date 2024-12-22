@@ -46,7 +46,7 @@ export function Sidebar() {
 
       {/* GitHub */}
       <div className="mt-2">
-        <Link href="https://github.com/SoniyaMuhammadDawood" target="_blank " className=" text-gray-600 hover:text-[#6e5494]">
+        <Link href="#" target="_blank " className=" text-gray-600 hover:text-[#6e5494]">
       <FaGithub className="text-4xl "/>
       </Link>
       </div>
